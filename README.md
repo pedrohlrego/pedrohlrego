@@ -26,13 +26,6 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrohlrego&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="140" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrohlrego&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false&custom_title=Linguagem%20mais%20usada" height="120" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/pedroh.lrego/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
