@@ -1,4 +1,4 @@
-<h3 align="left">Olá! Meu nome é Pedro Henrique, estudando Análise de Dados com Python.</h3>
+<h3 align="left">Olá! Meu nome é Pedro Henrique, Análise de Dados com Python.</h3>
 
 ###
 
